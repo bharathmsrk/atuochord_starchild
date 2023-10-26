@@ -1,0 +1,5155 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {},
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "tempo",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 221.24,
+          "value": 128,
+          "confidence": 1.0
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": 221.24
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {},
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "beat_position",
+      "data": [
+        {
+          "time": 0.11,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 1,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 0.57,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 1,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 1.04,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 1,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 1.52,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 1,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 1.99,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 2,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 2.46,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 2,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 2.94,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 2,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 3.41,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 2,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 3.89,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 3,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 4.37,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 3,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 4.84,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 3,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 5.31,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 3,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 5.79,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 4,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 6.27,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 4,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 6.73,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 4,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 7.2,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 4,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 7.68,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 5,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 8.16,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 5,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 8.63,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 5,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 9.1,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 5,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 9.57,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 6,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 10.04,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 6,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 10.51,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 6,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 10.99,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 6,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 11.46,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 7,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 11.93,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 7,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 12.4,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 7,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 12.88,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 7,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 13.35,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 8,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 13.82,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 8,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 14.29,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 8,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 14.76,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 8,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 15.23,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 9,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 15.71,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 9,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 16.18,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 9,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 16.65,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 9,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 17.12,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 10,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 17.6,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 10,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 18.08,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 10,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 18.54,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 10,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 19.01,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 11,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 19.48,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 11,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 19.96,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 11,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 20.44,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 11,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 20.91,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 12,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 21.38,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 12,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 21.85,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 12,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 22.32,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 12,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 22.79,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 13,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 23.26,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 13,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 23.74,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 13,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 24.21,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 13,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 24.68,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 14,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 25.16,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 14,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 25.63,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 14,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 26.1,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 14,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 26.57,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 15,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 27.04,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 15,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 27.52,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 15,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 27.99,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 15,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 28.46,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 16,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 28.93,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 16,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 29.41,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 16,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 29.87,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 16,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 30.36,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 17,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 30.83,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 17,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 31.3,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 17,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 31.77,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 17,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 32.24,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 18,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 32.71,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 18,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 33.19,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 18,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 33.65,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 18,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 34.14,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 19,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 34.61,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 19,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 35.08,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 19,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 35.56,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 19,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 36.03,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 20,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 36.5,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 20,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 36.97,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 20,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 37.45,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 20,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 37.92,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 21,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 38.39,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 21,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 38.86,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 21,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 39.34,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 21,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 39.81,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 22,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 40.28,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 22,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 40.75,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 22,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 41.23,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 22,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 41.7,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 23,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 42.17,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 23,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 42.64,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 23,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 43.12,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 23,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 43.59,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 24,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 44.06,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 24,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 44.53,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 24,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 45.0,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 24,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 45.48,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 25,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 45.96,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 25,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 46.42,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 25,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 46.89,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 25,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 47.36,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 26,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 47.83,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 26,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 48.31,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 26,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 48.78,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 26,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 49.24,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 27,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 49.72,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 27,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 50.2,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 27,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 50.67,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 27,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 51.14,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 28,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 51.61,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 28,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 52.09,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 28,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 52.56,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 28,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 53.03,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 29,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 53.5,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 29,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 53.98,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 29,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 54.45,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 29,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 54.92,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 30,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 55.39,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 30,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 55.87,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 30,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 56.34,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 30,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 56.81,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 31,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 57.29,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 31,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 57.76,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 31,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 58.23,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 31,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 58.7,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 32,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 59.17,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 32,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 59.65,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 32,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 60.11,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 32,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 60.59,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 33,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 61.06,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 33,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 61.53,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 33,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 62.01,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 33,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 62.48,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 34,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 62.96,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 34,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 63.42,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 34,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 63.9,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 34,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 64.37,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 35,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 64.84,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 35,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 65.32,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 35,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 65.79,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 35,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 66.26,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 36,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 66.73,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 36,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 67.21,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 36,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 67.68,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 36,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 68.15,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 37,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 68.63,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 37,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 69.1,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 37,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 69.57,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 37,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 70.04,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 38,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 70.51,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 38,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 70.99,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 38,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 71.46,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 38,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 71.93,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 39,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 72.4,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 39,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 72.88,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 39,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 73.34,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 39,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 73.82,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 40,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 74.29,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 40,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 74.77,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 40,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 75.24,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 40,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 75.71,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 41,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 76.18,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 41,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 76.66,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 41,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 77.13,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 41,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 77.6,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 42,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 78.07,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 42,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 78.55,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 42,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 79.01,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 42,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 79.49,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 43,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 79.96,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 43,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 80.44,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 43,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 80.91,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 43,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 81.38,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 44,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 81.85,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 44,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 82.32,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 44,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 82.8,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 44,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 83.27,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 45,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 83.74,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 45,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 84.21,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 45,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 84.69,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 45,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 85.16,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 46,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 85.63,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 46,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 86.11,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 46,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 86.58,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 46,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 87.05,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 47,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 87.52,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 47,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 88.0,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 47,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 88.47,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 47,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 88.94,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 48,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 89.41,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 48,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 89.89,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 48,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 90.35,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 48,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 90.83,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 49,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 91.3,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 49,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 91.77,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 49,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 92.25,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 49,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 92.72,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 50,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 93.19,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 50,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 93.66,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 50,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 94.13,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 50,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 94.6,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 51,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 95.08,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 51,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 95.55,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 51,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 96.03,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 51,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 96.5,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 52,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 96.97,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 52,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 97.45,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 52,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 97.91,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 52,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 98.39,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 53,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 98.86,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 53,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 99.33,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 53,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 99.8,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 53,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 100.28,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 54,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 100.75,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 54,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 101.22,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 54,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 101.69,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 54,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 102.16,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 55,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 102.64,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 55,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 103.12,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 55,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 103.59,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 55,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 104.06,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 56,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 104.53,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 56,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 105.0,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 56,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 105.47,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 56,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 105.95,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 57,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 106.42,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 57,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 106.9,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 57,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 107.37,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 57,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 107.83,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 58,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 108.31,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 58,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 108.79,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 58,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 109.25,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 58,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 109.73,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 59,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 110.2,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 59,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 110.68,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 59,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 111.16,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 59,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 111.62,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 60,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 112.09,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 60,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 112.57,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 60,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 113.03,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 60,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 113.51,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 61,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 113.98,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 61,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 114.45,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 61,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 114.93,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 61,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 115.4,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 62,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 115.87,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 62,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 116.35,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 62,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 116.81,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 62,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 117.28,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 63,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 117.76,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 63,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 118.23,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 63,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 118.71,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 63,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 119.17,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 64,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 119.64,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 64,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 120.12,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 64,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 120.59,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 64,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 121.06,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 65,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 121.54,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 65,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 122.01,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 65,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 122.48,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 65,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 122.95,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 66,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 123.42,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 66,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 123.9,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 66,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 124.37,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 66,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 124.83,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 67,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 125.31,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 67,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 125.79,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 67,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 126.26,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 67,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 126.73,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 68,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 127.21,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 68,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 127.68,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 68,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 128.15,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 68,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 128.62,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 69,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 129.09,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 69,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 129.57,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 69,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 130.04,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 69,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 130.51,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 70,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 130.99,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 70,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 131.46,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 70,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 131.92,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 70,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 132.4,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 71,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 132.87,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 71,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 133.35,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 71,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 133.82,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 71,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 134.29,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 72,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 134.76,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 72,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 135.23,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 72,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 135.69,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 72,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 136.18,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 73,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 136.66,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 73,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 137.12,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 73,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 137.6,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 73,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 138.07,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 74,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 138.54,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 74,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 139.01,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 74,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 139.48,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 74,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 139.97,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 75,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 140.43,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 75,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 140.91,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 75,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 141.38,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 75,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 141.85,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 76,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 142.33,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 76,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 142.8,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 76,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 143.27,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 76,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 143.75,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 77,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 144.22,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 77,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 144.69,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 77,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 145.16,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 77,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 145.63,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 78,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 146.11,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 78,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 146.58,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 78,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 147.05,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 78,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 147.53,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 79,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 148.0,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 79,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 148.47,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 79,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 148.95,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 79,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 149.41,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 80,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 149.89,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 80,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 150.36,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 80,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 150.83,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 80,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 151.31,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 81,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 151.78,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 81,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 152.25,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 81,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 152.72,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 81,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 153.19,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 82,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 153.66,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 82,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 154.14,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 82,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 154.6,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 82,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 155.07,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 83,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 155.55,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 83,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 156.03,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 83,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 156.5,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 83,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 156.97,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 84,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 157.44,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 84,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 157.91,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 84,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 158.39,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 84,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 158.86,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 85,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 159.33,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 85,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 159.8,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 85,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 160.27,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 85,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 160.75,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 86,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 161.22,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 86,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 161.69,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 86,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 162.16,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 86,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 162.64,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 87,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 163.11,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 87,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 163.58,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 87,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 164.05,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 87,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 164.52,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 88,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 165.0,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 88,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 165.47,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 88,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 165.94,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 88,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 166.42,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 89,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 166.89,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 89,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 167.36,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 89,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 167.83,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 89,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 168.31,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 90,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 168.77,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 90,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 169.25,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 90,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 169.72,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 90,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 170.19,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 91,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 170.67,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 91,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 171.14,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 91,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 171.61,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 91,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 172.08,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 92,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 172.56,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 92,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 173.03,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 92,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 173.51,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 92,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 173.98,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 93,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 174.45,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 93,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 174.92,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 93,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 175.4,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 93,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 175.87,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 94,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 176.34,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 94,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 176.81,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 94,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 177.28,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 94,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 177.76,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 95,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 178.23,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 95,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 178.7,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 95,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 179.17,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 95,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 179.64,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 96,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 180.12,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 96,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 180.59,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 96,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 181.07,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 96,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 181.54,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 97,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 182.01,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 97,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 182.48,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 97,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 182.95,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 97,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 183.43,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 98,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 183.9,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 98,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 184.37,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 98,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 184.85,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 98,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 185.31,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 99,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 185.79,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 99,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 186.26,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 99,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 186.73,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 99,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 187.2,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 100,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 187.68,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 100,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 188.15,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 100,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 188.62,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 100,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 189.1,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 101,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 189.57,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 101,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 190.04,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 101,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 190.51,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 101,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 190.99,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 102,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 191.46,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 102,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 191.93,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 102,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 192.4,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 102,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 192.88,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 103,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 193.35,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 103,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 193.82,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 103,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 194.29,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 103,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 194.76,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 104,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 195.24,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 104,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 195.71,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 104,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 196.18,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 104,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 196.66,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 105,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 197.13,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 105,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 197.6,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 105,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 198.07,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 105,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 198.55,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 106,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 199.02,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 106,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 199.49,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 106,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 199.96,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 106,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 200.43,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 107,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 200.9,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 107,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 201.38,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 107,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 201.85,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 107,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 202.33,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 108,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 202.8,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 108,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 203.27,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 108,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 203.74,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 108,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 204.21,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 109,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 204.69,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 109,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 205.16,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 109,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 205.63,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 109,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 206.1,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 110,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 206.58,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 110,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 207.05,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 110,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 207.52,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 110,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 207.99,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 111,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 208.46,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 111,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 208.94,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 111,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 209.42,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 111,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 209.89,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 112,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 210.36,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 112,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 210.83,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 112,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 211.29,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 112,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 211.77,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 113,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 212.24,
+          "duration": 0.0,
+          "value": {
+            "position": 2,
+            "measure": 113,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 212.72,
+          "duration": 0.0,
+          "value": {
+            "position": 3,
+            "measure": 113,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 213.19,
+          "duration": 0.0,
+          "value": {
+            "position": 4,
+            "measure": 113,
+            "num_beats": 4,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 213.66,
+          "duration": 0.0,
+          "value": {
+            "position": 1,
+            "measure": 114,
+            "num_beats": 1,
+            "beat_units": 4
+          },
+          "confidence": 1.0
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": 221.24
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {},
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "segment_open",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 0.11,
+          "value": "start",
+          "confidence": 1.0
+        },
+        {
+          "time": 0.11,
+          "duration": 18.89,
+          "value": "intro",
+          "confidence": 1.0
+        },
+        {
+          "time": 19.0,
+          "duration": 15.130000000000003,
+          "value": "intro",
+          "confidence": 1.0
+        },
+        {
+          "time": 34.13,
+          "duration": 15.11,
+          "value": "inst",
+          "confidence": 1.0
+        },
+        {
+          "time": 49.24,
+          "duration": 15.119999999999997,
+          "value": "inst",
+          "confidence": 1.0
+        },
+        {
+          "time": 64.36,
+          "duration": 15.120000000000005,
+          "value": "inst",
+          "confidence": 1.0
+        },
+        {
+          "time": 79.48,
+          "duration": 15.11999999999999,
+          "value": "inst",
+          "confidence": 1.0
+        },
+        {
+          "time": 94.6,
+          "duration": 29.290000000000006,
+          "value": "verse",
+          "confidence": 1.0
+        },
+        {
+          "time": 123.89,
+          "duration": 16.08,
+          "value": "chorus",
+          "confidence": 1.0
+        },
+        {
+          "time": 139.97,
+          "duration": 14.990000000000009,
+          "value": "solo",
+          "confidence": 1.0
+        },
+        {
+          "time": 154.96,
+          "duration": 15.22999999999999,
+          "value": "chorus",
+          "confidence": 1.0
+        },
+        {
+          "time": 170.19,
+          "duration": 15.120000000000005,
+          "value": "chorus",
+          "confidence": 1.0
+        },
+        {
+          "time": 185.31,
+          "duration": 15.120000000000005,
+          "value": "chorus",
+          "confidence": 1.0
+        },
+        {
+          "time": 200.43,
+          "duration": 15.109999999999985,
+          "value": "outro",
+          "confidence": 1.0
+        },
+        {
+          "time": 215.54,
+          "duration": 5.700000000000017,
+          "value": "end",
+          "confidence": 1.0
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": 221.24
+    }
+  ],
+  "file_metadata": {
+    "title": "01 Follow",
+    "artist": "",
+    "release": "",
+    "duration": 221.24,
+    "identifiers": {},
+    "jams_version": "0.3.4"
+  },
+  "sandbox": {}
+}
