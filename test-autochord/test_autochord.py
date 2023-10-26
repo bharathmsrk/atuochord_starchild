@@ -16,7 +16,26 @@ if stub.is_inside():
 @stub.function(mounts=[modal.Mount.from_local_dir(".", remote_path="/root/test_autochord")])
 def test_autochord():
     return autochord.recognize('test_autochord/Hotel_California.wav')
-    
+
+chord_mapping = {
+    'C:maj': 1, 'C:min': 2,
+    'C#:maj': 3, 'C#:min': 4,
+    'Db:maj': 3, 'Db:min': 4,
+    'D:maj': 5, 'D:min': 6,
+    'D#:maj': 7, 'D#:min': 8,
+    'Eb:maj': 7, 'Eb:min': 8,
+    'E:maj': 9, 'E:min': 10,
+    'F:maj': 11, 'F:min': 12,
+    'F#:maj': 13, 'F#:min': 14,
+    'Gb:maj': 13, 'Gb:min': 14,
+    'G:maj': 15, 'G:min': 16,
+    'G#:maj': 17, 'G#:min': 18,
+    'Ab:maj': 17, 'Ab:min': 18,
+    'A:maj': 19, 'A:min': 20,
+    'A#:maj': 21, 'A#:min': 22,
+    'Bb:maj': 21, 'Bb:min': 22,
+    'B:maj': 23, 'B:min': 24
+}
 
 @stub.local_entrypoint()
 def main():
@@ -74,12 +93,15 @@ def main():
                 if chord_start <= start_time <= chord_stop:
                     chord = chord_name
                     break
+
+            chord = None
+            for chord_start, chord_stop, chord_name in chords:
+                if chord_start <= beat_time <= chord_stop:
+                    chord = chord_mapping.get(chord_name, 0)  # Map chord to integer, default to 0 if not found
+                    break
             
             # Add the synchronized data to the result list
             results.append((start_time, stop_time, f'Bar {bar_number}', f'Beat {beat_number}', f'Quarter {quarter_note_number}', chord))
-
-
-
     
     with open('chords_Hotel_California_BT_autochord.lab', 'w') as acf:
         for chord in chords:
