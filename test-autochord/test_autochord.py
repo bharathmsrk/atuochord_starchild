@@ -35,25 +35,51 @@ def main():
 
     # Iterate through beat_times and chords to synchronize them
     results = []
-    for i, beat_time in enumerate(beat_times):
-        start_time = beat_time
-        # Find the stop time which is the smallest fraction of a second lesser than the next beat time
-        stop_time = beat_times[i + 1] - 0.000001 if i < len(beat_times) - 1 else beat_time  # Subtract a small epsilon to avoid floating-point precision issues
+    # for i, beat_time in enumerate(beat_times):
+    #     start_time = beat_time
+    #     # Find the stop time which is the smallest fraction of a second lesser than the next beat time
+    #     stop_time = beat_times[i + 1] - 0.000001 if i < len(beat_times) - 1 else beat_time  # Subtract a small epsilon to avoid floating-point precision issues
         
-        # Find the corresponding bar and beat number
-        bar_number = i // 4 + 1  # Assuming 4 beats in a bar
-        beat_number = i % 4 + 1
+    #     # Find the corresponding bar and beat number
+    #     bar_number = i // 4 + 1  # Assuming 4 beats in a bar
+    #     beat_number = i % 4 + 1
         
-        # Find the chord for the current beat
-        chord = None
-        for chord_start, chord_stop, chord_name in chords:
-            if chord_start <= beat_time <= chord_stop:
-                chord = chord_name
-                break
+    #     # Find the chord for the current beat
+    #     chord = None
+    #     for chord_start, chord_stop, chord_name in chords:
+    #         if chord_start <= beat_time <= chord_stop:
+    #             chord = chord_name
+    #             break
         
-        # Add the synchronized data to the result list
-        results.append((start_time, stop_time, f'Bar {bar_number}', f'Beat {beat_number}', chord))
+    #     # Add the synchronized data to the result list
+    #     results.append((start_time, stop_time, f'Bar {bar_number}', f'Beat {beat_number}', chord))
     # print(f'Result: {results}')
+
+    # Iterate through beat_times and chords to synchronize them based on quarter notes (4 parts in a beat)
+    for i, beat_time in enumerate(beat_times):
+        # Split each beat into 4 parts (quarter notes)
+        for j in range(4):
+            # Calculate start and stop times for the quarter note
+            start_time = beat_time + (j * (1 / 4) * (beat_times[i + 1] - beat_time)) if i < len(beat_times) - 1 else beat_time  # Calculate quarter note start time
+            stop_time = start_time + (1 / 4) * (beat_times[i + 1] - beat_time) if i < len(beat_times) - 1 else beat_time  # Calculate quarter note stop time
+            
+            # Find the corresponding bar, beat, and quarter note number
+            bar_number = i // 4 + 1  # Assuming 4 beats in a bar
+            beat_number = (i % 4) + 1  # Beat number within the bar
+            quarter_note_number = j + 1  # Quarter note number
+            
+            # Find the chord for the current quarter note
+            chord = None
+            for chord_start, chord_stop, chord_name in chords:
+                if chord_start <= start_time <= chord_stop:
+                    chord = chord_name
+                    break
+            
+            # Add the synchronized data to the result list
+            results.append((start_time, stop_time, f'Bar {bar_number}', f'Beat {beat_number}', f'Quarter {quarter_note_number}', chord))
+
+
+
     
     with open('chords_Hotel_California_BT_autochord.lab', 'w') as acf:
         for chord in chords:
@@ -61,4 +87,4 @@ def main():
 
     with open('chords_Hotel_California_BT.lab', 'w') as bsf:
         for result in results:
-            bsf.write(f'{result[0]}\t{result[1]}\t{result[2]}\t{result[3]}\t{result[4]}\n')
+            bsf.write(f'{result[0]}\t{result[1]}\t{result[2]}\t{result[3]}\t{result[4]}\t{result[5]}\n')
